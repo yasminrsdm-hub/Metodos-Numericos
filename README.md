@@ -1,6 +1,6 @@
 # Métodos Numéricos
 
-Este repositório contém implementações de métodos numéricos para encontrar raízes de funções. Os métodos foram desenvolvidos em Python e são voltados para estudantes e entusiastas de matemática computacional.
+Este repositório contém implementações de métodos numéricos. Os métodos foram desenvolvidos em Python e são voltados para estudantes e entusiastas de matemática computacional.
 
 ## Métodos Implementados
 
